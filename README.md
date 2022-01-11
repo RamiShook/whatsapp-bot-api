@@ -43,6 +43,8 @@ features  | BOT WILL REPLY WITH PREDEFINED MESSAGE
 
  :red_circle: This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates.\nThere is no kind of communication between me and the owners of these applications in any way, this is just an experimental project that grab the information from these applications.\
  :red_circle: Before the BOT reply to any message it will save the data to database (Sender number, Message content, Sender device type) 
+ :red_circle: I DONT OWN ANY OF THIS APPLICATION OR LISTED API'S / THERE IS NO KIND OF COMMUNICATION BETWEEN ME AND ANY OF THE OWNERS OF THESE APPLICATIONS AND/OR API'S
+ :red_circle: USE THIS CODE ON YOUR OWN RISK!
  
  
 
